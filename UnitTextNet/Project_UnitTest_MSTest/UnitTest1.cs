@@ -18,19 +18,19 @@ namespace Project_UnitTest_MSTest
         public void TestMethod1_ValidarSiEsnumeroPar()
         {
             //Arranges
-
+            
             //ACT
             var result =  _bo.EsPar(2).Result;
 
             //Assert
-            Assert.AreEqual(200, result.Codigo);
+            Assert.AreEqual(500, result.Codigo);
 
         }
 
         #region Metodo 2
         [TestMethod, Priority(2)]
         [DataRow("2")]
-        [DataRow("0")]
+        [DataRow("1")]
         [DataRow("24")]
         public void TestMethod2_ValidarSiEsnumeroPar(string Numero)
         {
