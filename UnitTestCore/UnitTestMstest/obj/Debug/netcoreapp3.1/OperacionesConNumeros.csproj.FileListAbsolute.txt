@@ -1,0 +1,7 @@
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\UnitTestMstest\obj\Debug\netcoreapp3.1\OperacionesConNumeros.csprojAssemblyReference.cache
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\UnitTestMstest\obj\Debug\netcoreapp3.1\OperacionesConNumeros.AssemblyInfoInputs.cache
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\UnitTestMstest\obj\Debug\netcoreapp3.1\OperacionesConNumeros.AssemblyInfo.cs
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\UnitTestMstest\obj\Debug\netcoreapp3.1\OperacionesConNumeros.csproj.CoreCompileInputs.cache
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\UnitTestMstest\obj\Debug\netcoreapp3.1\OperacionesConNumeros.MvcApplicationPartsAssemblyInfo.cache
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\UnitTestMstest\obj\Debug\netcoreapp3.1\OperacionesConNumeros.dll
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\UnitTestMstest\obj\Debug\netcoreapp3.1\OperacionesConNumeros.pdb

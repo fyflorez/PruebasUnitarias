@@ -1,4 +1,5 @@
-﻿using OperacionesConNumeros.Model;
+﻿using DALC;
+using OperacionesConNumeros.Model;
 using System;
 using System.Net;
 using System.Threading.Tasks;
@@ -7,8 +8,10 @@ namespace OperacionesConNumeros
 {
     public class BOEncuesta
     {
+        private readonly DalcEncuesta DalcEnc;
         public BOEncuesta(EncuestaContext context)
         {
+            DalcEnc = new DalcEncuesta(context);
         }
 
         public ResponseBase<Encuesta> GetEncuestaActiva()

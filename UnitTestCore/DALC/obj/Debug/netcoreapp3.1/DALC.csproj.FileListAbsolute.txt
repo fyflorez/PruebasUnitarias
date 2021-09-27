@@ -1,0 +1,12 @@
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\DALC\bin\Debug\netcoreapp3.1\DALC.deps.json
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\DALC\bin\Debug\netcoreapp3.1\DALC.dll
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\DALC\bin\Debug\netcoreapp3.1\DALC.pdb
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\DALC\bin\Debug\netcoreapp3.1\OperacionesConNumeros.Model.dll
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\DALC\bin\Debug\netcoreapp3.1\OperacionesConNumeros.Model.pdb
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\DALC\obj\Debug\netcoreapp3.1\DALC.csprojAssemblyReference.cache
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\DALC\obj\Debug\netcoreapp3.1\DALC.AssemblyInfoInputs.cache
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\DALC\obj\Debug\netcoreapp3.1\DALC.AssemblyInfo.cs
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\DALC\obj\Debug\netcoreapp3.1\DALC.csproj.CoreCompileInputs.cache
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\DALC\obj\Debug\netcoreapp3.1\DALC.csproj.CopyComplete
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\DALC\obj\Debug\netcoreapp3.1\DALC.dll
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\DALC\obj\Debug\netcoreapp3.1\DALC.pdb

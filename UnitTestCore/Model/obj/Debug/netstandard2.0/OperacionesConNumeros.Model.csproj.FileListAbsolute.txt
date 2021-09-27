@@ -7,3 +7,11 @@ C:\fflorezg\manuales\PruebasUnitarias\MsTest\Model\obj\Debug\netstandard2.0\Oper
 C:\fflorezg\manuales\PruebasUnitarias\MsTest\Model\obj\Debug\netstandard2.0\OperacionesConNumeros.Model.csproj.CoreCompileInputs.cache
 C:\fflorezg\manuales\PruebasUnitarias\MsTest\Model\obj\Debug\netstandard2.0\OperacionesConNumeros.Model.dll
 C:\fflorezg\manuales\PruebasUnitarias\MsTest\Model\obj\Debug\netstandard2.0\OperacionesConNumeros.Model.pdb
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\Model\bin\Debug\netstandard2.0\OperacionesConNumeros.Model.deps.json
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\Model\bin\Debug\netstandard2.0\OperacionesConNumeros.Model.dll
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\Model\bin\Debug\netstandard2.0\OperacionesConNumeros.Model.pdb
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\Model\obj\Debug\netstandard2.0\OperacionesConNumeros.Model.AssemblyInfoInputs.cache
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\Model\obj\Debug\netstandard2.0\OperacionesConNumeros.Model.AssemblyInfo.cs
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\Model\obj\Debug\netstandard2.0\OperacionesConNumeros.Model.csproj.CoreCompileInputs.cache
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\Model\obj\Debug\netstandard2.0\OperacionesConNumeros.Model.dll
+C:\fflorezg\manuales\PruebasUnitarias\UnitTestCore\Model\obj\Debug\netstandard2.0\OperacionesConNumeros.Model.pdb

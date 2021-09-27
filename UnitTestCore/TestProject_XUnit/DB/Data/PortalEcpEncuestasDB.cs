@@ -22,14 +22,14 @@ namespace TestProject_XUnit
         /// </summary>
         public void CargaEncuestaActiva()
         {
-            DateTime fechaCreacion = DateTime.Now;
+            //DateTime fechaCreacion = DateTime.Now;
             OperacionesConNumeros.Model.Encuesta nuevaEncuesta = new OperacionesConNumeros.Model.Encuesta()
             { 
                 Activo  = true,
                 Descripcion = "Encuesta test",
                 Titulo = "Encuesta activa",
                 
-                FechaInicio = fechaCreacion.AddDays(-1),
+                FechaInicio = DateTime.Now, //fechaCreacion.AddDays(-1),
                 FechaFinalizacion = DateTime.Now.AddDays(1)
              
             };

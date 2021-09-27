@@ -1102,6 +1102,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "DALC": "1.0.0",
           "OperacionesConNumeros.Model": "1.0.0"
         },
         "compile": {

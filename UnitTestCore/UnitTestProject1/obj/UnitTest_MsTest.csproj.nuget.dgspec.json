@@ -36,6 +36,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "C:\\fflorezg\\manuales\\PruebasUnitarias\\UnitTestCore\\DALC\\DALC.csproj": {
+                "projectPath": "C:\\fflorezg\\manuales\\PruebasUnitarias\\UnitTestCore\\DALC\\DALC.csproj"
+              },
               "C:\\fflorezg\\manuales\\PruebasUnitarias\\UnitTestCore\\Model\\OperacionesConNumeros.Model.csproj": {
                 "projectPath": "C:\\fflorezg\\manuales\\PruebasUnitarias\\UnitTestCore\\Model\\OperacionesConNumeros.Model.csproj"
               }
@@ -51,6 +54,78 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\fflorezg\\manuales\\PruebasUnitarias\\UnitTestCore\\DALC\\DALC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\fflorezg\\manuales\\PruebasUnitarias\\UnitTestCore\\DALC\\DALC.csproj",
+        "projectName": "DALC",
+        "projectPath": "C:\\fflorezg\\manuales\\PruebasUnitarias\\UnitTestCore\\DALC\\DALC.csproj",
+        "packagesPath": "C:\\Users\\fflorezg\\.nuget\\packages\\",
+        "outputPath": "C:\\fflorezg\\manuales\\PruebasUnitarias\\UnitTestCore\\DALC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fflorezg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\fflorezg\\manuales\\PruebasUnitarias\\UnitTestCore\\Model\\OperacionesConNumeros.Model.csproj": {
+                "projectPath": "C:\\fflorezg\\manuales\\PruebasUnitarias\\UnitTestCore\\Model\\OperacionesConNumeros.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -36,6 +36,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "C:\\fflorezg\\manuales\\PruebasUnitarias\\UnitTestCore\\DALC\\DALC.csproj": {
+                "projectPath": "C:\\fflorezg\\manuales\\PruebasUnitarias\\UnitTestCore\\DALC\\DALC.csproj"
+              },
               "C:\\fflorezg\\manuales\\PruebasUnitarias\\UnitTestCore\\Model\\OperacionesConNumeros.Model.csproj": {
                 "projectPath": "C:\\fflorezg\\manuales\\PruebasUnitarias\\UnitTestCore\\Model\\OperacionesConNumeros.Model.csproj"
               }

@@ -1,4 +1,5 @@
 ﻿using DALC;
+using OperacionesConNumeros;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -28,7 +29,7 @@ namespace TestProject_XUnit
             var resultadoAct = boValidar.GetEncuestaActiva();
 
             //Assert
-            Assert.Equal(valorUnitTest, resultadoAct.codigo);
+            Assert.Equal(valorUnitTest, resultadoAct.Codigo);
 
         }
     }
