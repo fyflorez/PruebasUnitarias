@@ -1,0 +1,12 @@
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\bin\Debug\netcoreapp3.1\OperacionesConNumerosBo.deps.json
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\bin\Debug\netcoreapp3.1\OperacionesConNumerosBo.dll
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\bin\Debug\netcoreapp3.1\OperacionesConNumerosBo.pdb
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\bin\Debug\netcoreapp3.1\OperacionesConNumeros.Model.dll
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\bin\Debug\netcoreapp3.1\OperacionesConNumeros.Model.pdb
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\obj\Debug\netcoreapp3.1\OperacionesConNumerosBo.csprojAssemblyReference.cache
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\obj\Debug\netcoreapp3.1\OperacionesConNumerosBo.AssemblyInfoInputs.cache
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\obj\Debug\netcoreapp3.1\OperacionesConNumerosBo.AssemblyInfo.cs
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\obj\Debug\netcoreapp3.1\OperacionesConNumerosBo.csproj.CoreCompileInputs.cache
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\obj\Debug\netcoreapp3.1\OperacionesConNumerosBo.csproj.CopyComplete
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\obj\Debug\netcoreapp3.1\OperacionesConNumerosBo.dll
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\obj\Debug\netcoreapp3.1\OperacionesConNumerosBo.pdb

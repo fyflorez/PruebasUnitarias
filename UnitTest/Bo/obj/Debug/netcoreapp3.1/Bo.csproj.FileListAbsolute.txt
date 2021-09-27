@@ -1,0 +1,12 @@
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\bin\Debug\netcoreapp3.1\Bo.deps.json
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\bin\Debug\netcoreapp3.1\Bo.dll
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\bin\Debug\netcoreapp3.1\Bo.pdb
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\bin\Debug\netcoreapp3.1\Model.dll
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\bin\Debug\netcoreapp3.1\Model.pdb
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\obj\Debug\netcoreapp3.1\Bo.csprojAssemblyReference.cache
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\obj\Debug\netcoreapp3.1\Bo.AssemblyInfoInputs.cache
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\obj\Debug\netcoreapp3.1\Bo.AssemblyInfo.cs
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\obj\Debug\netcoreapp3.1\Bo.csproj.CoreCompileInputs.cache
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\obj\Debug\netcoreapp3.1\Bo.csproj.CopyComplete
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\obj\Debug\netcoreapp3.1\Bo.dll
+C:\fflorezg\manuales\PruebasUnitarias\MsTest\Bo\obj\Debug\netcoreapp3.1\Bo.pdb

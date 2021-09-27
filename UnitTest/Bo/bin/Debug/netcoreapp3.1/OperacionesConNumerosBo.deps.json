@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OperacionesConNumerosBo/1.0.0": {
+        "dependencies": {
+          "OperacionesConNumeros.Model": "1.0.0"
+        },
+        "runtime": {
+          "OperacionesConNumerosBo.dll": {}
+        }
+      },
+      "OperacionesConNumeros.Model/1.0.0": {
+        "runtime": {
+          "OperacionesConNumeros.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OperacionesConNumerosBo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OperacionesConNumeros.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
