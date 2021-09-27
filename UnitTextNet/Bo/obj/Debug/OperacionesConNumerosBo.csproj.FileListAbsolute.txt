@@ -1,0 +1,9 @@
+C:\fflorezg\manuales\PruebasUnitarias\UnitTextNet\Bo\bin\Debug\Bo.dll
+C:\fflorezg\manuales\PruebasUnitarias\UnitTextNet\Bo\bin\Debug\Bo.pdb
+C:\fflorezg\manuales\PruebasUnitarias\UnitTextNet\Bo\bin\Debug\OperacionesConNumeros.Model.dll
+C:\fflorezg\manuales\PruebasUnitarias\UnitTextNet\Bo\bin\Debug\OperacionesConNumeros.Model.pdb
+C:\fflorezg\manuales\PruebasUnitarias\UnitTextNet\Bo\obj\Debug\OperacionesConNumerosBo.csprojAssemblyReference.cache
+C:\fflorezg\manuales\PruebasUnitarias\UnitTextNet\Bo\obj\Debug\OperacionesConNumerosBo.csproj.CoreCompileInputs.cache
+C:\fflorezg\manuales\PruebasUnitarias\UnitTextNet\Bo\obj\Debug\OperacionesConNumerosBo.csproj.CopyComplete
+C:\fflorezg\manuales\PruebasUnitarias\UnitTextNet\Bo\obj\Debug\Bo.dll
+C:\fflorezg\manuales\PruebasUnitarias\UnitTextNet\Bo\obj\Debug\Bo.pdb
